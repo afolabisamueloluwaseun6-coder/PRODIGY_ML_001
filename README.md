@@ -71,9 +71,6 @@ The script (`house_price_prediction.py`) performs the following steps:
 - Trying advanced models like XGBoost or LightGBM.
 - Cross-validation for better validation.
 
-## Kaggle Submission
-
-Upload `submission.csv` to the [House Prices competition](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) on Kaggle.
 
 ## License
 
